@@ -8,7 +8,7 @@ This repository provides a C data structure implementation of a Doubly Linked Li
 
 ## Getting Started
 
-If you'd like to use the stack implementation from this repository, follow these simple steps:
+If you'd like to use the Doubly Linked List implementation from this repository, follow these simple steps:
 
 ```shell
 
